@@ -962,11 +962,11 @@ body {
 @media (min-width: 1600px) {
 	
   .image-wrapper {
-    width: 50%;
+    width: 30%;
     margin: 1.6rem auto;
   }
   .profile-pic {
-    width: 40%;
+    width: 30%;
   }
 
   
@@ -1039,7 +1039,7 @@ body {
     font-size: 90px;
   }
   .pokemon {
-    width: 60%;
+    width: 50%;
   }
   
   .thanks {
@@ -1091,6 +1091,7 @@ body {
     height: auto !important;
   }
 }
+
 
 
 
