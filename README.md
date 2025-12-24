@@ -9,7 +9,7 @@
 ---
 
 <p align="center">
-  <img src="src/img/main.png" alt="Murali's Avatar" width="400" />
+  <img src="main.png" alt="Murali's Avatar" width="400" />
 </p>
 
 ---
