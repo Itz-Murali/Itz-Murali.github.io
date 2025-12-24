@@ -48,7 +48,7 @@ Feel Free To Dive Into My Work, Share Your Thoughts, And Let’s Build Something
 Whether You’re Here To Get Inspired, Collaborate, Or Just Say Hi, You’re Always Welcome! 😃  
 
 <p align="center">
-  <a href="https://Itz-Murali.github.io" target="_blank">
+  <a href="https://murali.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-%F0%9F%91%BB-pink?style=for-the-badge&logo=github" />
   </a>
 </p>
