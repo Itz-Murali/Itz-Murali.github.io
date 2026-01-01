@@ -34,7 +34,7 @@ const AboutSection = () => {
           </p>
           
           <p className="text-foreground/80 font-body">
-            I'm <span className="text-primary font-bold font-elegant text-2xl italic">Murali</span>, an 18-year-old developer from{' '}
+            I'm <span className="text-primary font-bold font-elegant text-2xl italic">Murali</span>, an 18-year-old Student from{' '}
             <span className="text-secondary font-semibold">Karnataka, India</span>. I love creating websites, 
             APIs, bots, and more just for fun in my free time.
           </p>
